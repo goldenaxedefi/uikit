@@ -50,7 +50,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/frenchfriesdefi/",
+        href: "https://github.com/goldenaxedefi/",
       },
       {
         label: "Docs",
@@ -68,7 +68,7 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/frenchfriesdefi",
+    href: "https://t.me/goldenaxedefi",
   },
   {
     label: "Twitter",
